@@ -1,0 +1,12 @@
+{
+  "name": "kqbooking",
+  "version": "1.0.0",
+  "description": "plane booking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "run": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
